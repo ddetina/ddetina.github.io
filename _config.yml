@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://ddetina.github.io
+title: quietwork
+tagline: centred at the edges
+description: Creative reality for general consumption.
+paginate: 5
